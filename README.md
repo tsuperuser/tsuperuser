@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+MY NAME TRENT
+I EAT CRAYONS
+PLEASE HIRE ME
+
 <!--
 **tsuperuser/tsuperuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
