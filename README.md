@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-MY NAME TRENT
+MY NAME Tsuperuser
 I EAT CRAYONS
 PLEASE HIRE ME
 
